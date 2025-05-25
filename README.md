@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Tu Van Nguyen Anh Quan.
+## 👋 Hi there, I'm Quan
 <div align="center">
   <h3>Full-Stack Developer</h3>
   <h4> Curious developer. Always learning. Always building.</h4>
