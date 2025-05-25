@@ -1,12 +1,16 @@
 ## 👋 Hi there, I'm Tu Van Nguyen Anh Quan.
 <div align="center">
   <h3>Full-Stack Developer</h3>
-<h4>I’m currently studying a bachelor's degree in Computer Science at VNUHCM - HCMUT.</h4>
+  <h4> Curious developer. Always learning. Always building.</h4>
 </div>
 
 ## 🌟 About Me
-- 💻 Passionate about web development.
-- 📘 Exploring various architectures styles and how to apply this to system
+- 📖 I’m currently studying a bachelor's degree in Computer Science at VNUHCM - HCMUT.
+- 💻 Passionate about web development and building clean, maintainable systems.  
+- 🚀 Always eager to learn and experiment with new technologies.  
+- 📘 Exploring various architecture styles and how to apply them in real-world applications.  
+- 🔍 Enjoy solving problems and improving both frontend and backend performance.  
+
 
 ## How to reach me
 <p align="center">
@@ -45,10 +49,9 @@
 
 | Databases | Cloud & DevOps | Tools |
 |:---------:|:-------------:|:-----:|
-| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
 </details>
